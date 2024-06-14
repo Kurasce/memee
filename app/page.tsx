@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="bg-dark vh-100 overflow-auto p-3">
-      <div className="container text-center p-3 bg-light" style={{ Height: "400px" }}>
+      <div className="container text-center p-3 bg-light">
         <h1 className="text-success bg-dark">
           เวลคัม
         </h1>
